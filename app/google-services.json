@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091939019513",
+    "project_id": "quiz-app-328ec",
+    "storage_bucket": "quiz-app-328ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091939019513:android:054427ef247a9cdcdd5028",
+        "android_client_info": {
+          "package_name": "com.deepakkumarinc.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHKCeovgia-tH4AH5_vE4Bm0Ed98lVC0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
